@@ -1,0 +1,60 @@
+/* Write your CSS here */
+
+.not-yet-regi-img {
+  height: 350px;
+  margin-bottom: 20px;
+}
+
+.discription {
+  font-size: 18px;
+  color: #64748b;
+  font-family: Roboto;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.button {
+  width: 400px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 15px;
+  color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: #0967d2;
+}
+
+.success-img {
+  height: 150px;
+  margin-bottom: 30px;
+}
+
+.success-text {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #323f4b;
+  text-align: center;
+  font-weight: bold;
+}
+
+.closed-img {
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.closed-heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #323f4b;
+  margin-bottom: 15px;
+}
+
+.closed-description {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #475569;
+}

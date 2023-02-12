@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-color {
+  display: flex;
+  min-height: 100vh;
+}
+
+.un-order-container {
+  background-color: #323f4b;
+  padding-left: 15px;
+  width: 60%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.event-heading {
+  font-family: Roboto;
+  font-size: 40px;
+  color: #ffffff;
+  margin-bottom: 15px;
+  margin-left: 40px;
+}
+
+.un-order-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.right-side-container {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.view-events {
+  font-size: 25px;
+  font-family: Roboto;
+  color: #3a4b63;
+  text-align: center;
+}
